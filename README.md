@@ -7,7 +7,7 @@ In this project, I analyze the housing data from New England and Wales.
 HM Land Registry publish the “Price Paid Data”, detailed data on the sale prices of properties in England and Wales. Datasets are published monthly with transaction-level information, including price, date, location, property type, property age, tenure duration, and transaction type. 
 Datasets are available in bulk in multiple file formats and filtered via the Linked Data API. Please use whatever source is most appropriate to your analysis, acknowledging it appropriately in your report.
 
-The UK Government's Statistical Datasets are found here:
+#### The UK Government's Statistical Datasets are found here:
 
 http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv
 
@@ -15,7 +15,7 @@ http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp
 
 It comprehensively covers data from the housing market in England and Wales from 1995 to 2022 and can be used even for commercial analysis.
 
-Dataset Description:
+#### Dataset Description:
 A comprehensive description of all the columns in the data can be found here:
 
 https://www.gov.uk/guidance/about-the-price-paid-data
