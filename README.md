@@ -29,6 +29,6 @@ In the Jupyter Notebook, the data is cleaned and analyzed to answer the followin
 - What are the monthly effects of the sales trends over the years?
 - What are the effects when we drill down to the counties? How are the total sales? What is the mean?
 
-A Medium blog post with the explaining the top 4 most important insights can be found here:
+#### A Medium blog post with the explaining the top 4 most important insights can be found here:
 
 https://medium.com/@data.camp435/how-to-analyze-the-housing-market-in-england-and-wales-fbf5fa214db4
