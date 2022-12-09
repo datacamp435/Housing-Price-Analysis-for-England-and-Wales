@@ -8,13 +8,16 @@ HM Land Registry publish the “Price Paid Data”, detailed data on the sale pr
 Datasets are available in bulk in multiple file formats and filtered via the Linked Data API. Please use whatever source is most appropriate to your analysis, acknowledging it appropriately in your report.
 
 The UK Government's Statistical Datasets are found here:
+
 http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv
+
 (Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0)
 
 It comprehensively covers data from the housing market in England and Wales from 1995 to 2022 and can be used even for commercial analysis.
 
 Dataset Description:
 A comprehensive description of all the columns in the data can be found here:
+
 https://www.gov.uk/guidance/about-the-price-paid-data
 
 In the Jupyter Notebook, the data is cleaned and analyzed to answer the following questions:
@@ -27,4 +30,5 @@ In the Jupyter Notebook, the data is cleaned and analyzed to answer the followin
 - What are the effects when we drill down to the counties? How are the total sales? What is the mean?
 
 A Medium blog post with the explaining the top 4 most important insights can be found here:
+
 https://medium.com/@data.camp435/how-to-analyze-the-housing-market-in-england-and-wales-fbf5fa214db4
