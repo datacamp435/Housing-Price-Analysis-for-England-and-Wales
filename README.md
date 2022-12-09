@@ -26,7 +26,6 @@ There are two deliverables that are required for project completion:
 1. A Github repository for the code
 2. A blog post of your findings
 
-
 ## Housing price analysis
 
 ### In this project, to achieve the above objectives, I analyze the housing data from New England and Wales.
@@ -39,22 +38,12 @@ Datasets are available in bulk in multiple file formats and filtered via the Lin
 http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv
 
 (Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0)
-
 It comprehensively covers data from the housing market in England and Wales from 1995 to 2022 and can be used even for commercial analysis.
 
 #### Dataset Description:
 A comprehensive description of all the columns in the data can be found here:
 
 https://www.gov.uk/guidance/about-the-price-paid-data
-
-In the Jupyter Notebook, the data is cleaned and analyzed to answer the following questions:
-
-- What is the most sold property type in England and Wales?
-- Which are the most expensive cities?
-- Which property type sold most in the top city?
-- What were the effects of crises over the years (the Financial Crash of 2008, Brexit, Covid-19, etc.) on the housing market?
-- What are the monthly effects of the sales trends over the years?
-- What are the effects when we drill down to the counties? How are the total sales? What is the mean?
 
 #### Libraries Used:
 - pandas for data analysis
@@ -64,6 +53,15 @@ In the Jupyter Notebook, the data is cleaned and analyzed to answer the followin
 
 #### Code Files
 - Jupyter Notebook: House_Price_Analysis_England_and_Wales_Udacity_Project.ipynb
+
+#### In the Jupyter Notebook, the data is cleaned and analyzed to answer the following questions:
+
+- What is the most sold property type in England and Wales?
+- Which are the most expensive cities?
+- Which property type sold most in the top city?
+- What were the effects of crises over the years (the Financial Crash of 2008, Brexit, Covid-19, etc.) on the housing market?
+- What are the monthly effects of the sales trends over the years?
+- What are the effects when we drill down to the counties? How are the total sales? What is the mean?
 
 #### A Medium blog post with the explaining the top 4 most important insights can be found here:
 
