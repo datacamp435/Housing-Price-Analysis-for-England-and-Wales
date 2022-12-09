@@ -1,6 +1,5 @@
 # Problem Description and Details
 ## Udacity Data Scientist Nanodegree Program: Project 1
-### Housing price analysis
 
 **Objectives**
 1) Pick a dataset
@@ -27,6 +26,8 @@ There are two deliverables that are required for project completion:
 1. A Github repository for the code
 2. A blog post of your findings
 
+
+## Housing price analysis
 
 ### In this project, to achieve the above objectives, I analyze the housing data from New England and Wales.
 
